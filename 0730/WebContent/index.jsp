@@ -4,7 +4,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>주하의 web page</title>
+<title>김근경의 web page</title>
 </head>
 <body>
   
