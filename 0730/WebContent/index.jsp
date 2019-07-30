@@ -4,11 +4,9 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-
-<title>밥먹즈아아아</title>
+<title>주하의 web page</title>
 </head>
 <body>
-<h1>밥밥</h1>
-
+  
 </body>
 </html>
