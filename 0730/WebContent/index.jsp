@@ -4,9 +4,9 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>고치고 싶음</title>
 </head>
 <body>
-
+	<h1>고침</h1>
 </body>
 </html>
